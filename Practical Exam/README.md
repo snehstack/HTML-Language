@@ -133,7 +133,7 @@ Learning Front-End Development
 > Add a screenshot after uploading your project to GitHub.
 
 ```markdown
-![CryptoM5 Screenshot](images/screenshot.png)
+![CryptoM5 Screenshot](screenshot)
 ```
 
 
