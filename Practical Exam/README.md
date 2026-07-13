@@ -133,7 +133,7 @@ Learning Front-End Development
 > Add a screenshot after uploading your project to GitHub.
 
 ```markdown
-![CryptoM5 Screenshot](screenshot)
+![image alt](https://github.com/snehstack/HTML-Language/tree/5bd3edc833d54587d9b54397ed8ece90ece9faf9/Practical%20Exam/Screenshot)
 ```
 
 
