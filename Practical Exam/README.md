@@ -99,15 +99,6 @@ This project helped me practice:
 
 ---
 
-## 📸 Preview
-
-Add a screenshot of your webpage inside an **images** folder and update the path below:
-
-```markdown
-![Project Preview](images/screenshot.png)
-```
-
----
 
 ## 👨‍💻 Author
 
