@@ -51,8 +51,6 @@ CryptoM5/
 │   ├── image3.png
 │   ├── image4.png
 │   └── ...
-│── video/
-│   └── crypto-video.mp4
 └── README.md
 ```
 
@@ -130,10 +128,7 @@ Learning Front-End Development
 
 ## 📸 Screenshot
 
-> Add a screenshot after uploading your project to GitHub.
-
-```markdown
-![image alt](https://github.com/snehstack/HTML-Language/tree/5bd3edc833d54587d9b54397ed8ece90ece9faf9/Practical%20Exam/Screenshot)
+![Project Screenshot](Screenshot/S1)
 ```
 
 
