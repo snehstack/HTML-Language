@@ -128,7 +128,7 @@ Learning Front-End Development
 
 ## 📸 Screenshot
 
-![Project Screenshot](Screenshot/S1)
+![Project Screenshot](Screenshot/S1.png)
 ```
 
 
